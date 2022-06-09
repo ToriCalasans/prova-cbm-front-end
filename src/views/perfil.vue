@@ -2,12 +2,11 @@
   <div class="grid grid-cols-6 flex items-center justify-center m-16 drop-shadow">
     <div class="col-start-2 col-span-4 rounded-md shadow">
       <div class="flex flex-col justify-center sm:flex-row items-center p-5 border-b border-slate-200/60">
-                <h1 class="font-medium text-xl">Perfil do candidato</h1>
-            </div>
+        <h1 class="font-medium text-xl">Perfil do candidato</h1>
+      </div>
       <div class="mt-5 md:mt-0 md:col-span-2">
         <div class="shadow overflow-hidden sm:rounded-md">
           <div class="px-4 py-5 bg-white sm:p-6">
-            <!-- About Section -->
             <div class="bg-white p-3 shadow-sm rounded-sm">
               <div class="flex items-center space-x-2 font-semibold text-gray-900 leading-8">
                 <img class="w-10 h-10 rounded-full mr-4" src="../assets/avatar.jpg" alt="Avatar">
